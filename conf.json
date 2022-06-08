@@ -1,0 +1,7 @@
+{
+    "HOSTNAME": "2ciel.com",
+    "HOSTPATH": "http://localhost:8090",
+    
+    "SERVERTIMEOUT": 5000,
+    "SERVERPORT": 8090
+}
